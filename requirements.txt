@@ -1,0 +1,8 @@
+# Python version: 3.11.7
+pandas==2.2.2
+matplotlib==3.9.2
+wordcloud==1.9.3
+nltk==3.9.1
+scikit-learn==1.5.1
+gensim==4.3.3
+pyLDAvis==3.4.1
